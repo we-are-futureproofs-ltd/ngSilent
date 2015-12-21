@@ -1,4 +1,4 @@
-ngSilent
+ngSilent (forked)
 ========
 
 Adds silent mode to AngularJS.
